@@ -8,7 +8,7 @@ The signal sampled at f=5KHz.
   
 # HOW it works
 # step 1:
-I read the signal and plot it in time
+read the signal and plot it in time
 # step 2:
 Plot the spectrum of the input signal and I found what are the noise frequency
 # step 3: 
